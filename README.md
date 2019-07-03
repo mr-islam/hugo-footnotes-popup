@@ -22,3 +22,8 @@ footnotePopup(false, false);
 ```
 
 This plugin will need some basic CSS styles to work. You can view reference styles in `main.css`
+
+## Example Usage
+
+1. [Vaetas.cz](https://www.vaetas.cz/posts/hugo-footnotes-popup/)
+2. [Navedislam.com](https://navedislam.com/posts/quotes/)
